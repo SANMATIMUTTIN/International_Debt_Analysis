@@ -4,12 +4,12 @@
 This repository contains a comprehensive SQL-based analysis of international debt data, inspired by The World Bank’s dataset.
 The project focuses on querying, analyzing, and deriving actionable insights from the dataset. 
 Below is a summary of the SQL queries performed and their objectives.
-
+________________________________________
 Table of Contents
 1.	Project Overview
 2.	SQL Queries and Objectives
 3.	Technologies Used
-
+________________________________________
 Project Overview	
 
 This project explores various aspects of international debt by leveraging SQL to:
@@ -21,7 +21,7 @@ This project explores various aspects of international debt by leveraging SQL to
 •	Provide actionable insights for further analysis or reporting.
 
 The dataset simulates The World Bank’s debt data, stored in a MySQL database called INTERNATIONAL_DEBT_ANALYSIS.
-
+________________________________________
 SQL Queries and Objectives
 1. Exploring the Dataset
    
@@ -83,7 +83,7 @@ SQL Queries and Objectives
     
 •	Objective: Identify the top 5 indicators and their countries by total debt.
 
-
+________________________________________
 Technologies Used
 
 •	MySQL: For database management and analysis.
@@ -91,4 +91,7 @@ Technologies Used
 •	SQL: For querying and deriving insights.
 
 •	Excel: For initial dataset preparation
+
+
+
 
